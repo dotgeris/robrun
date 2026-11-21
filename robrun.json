@@ -1,1 +1,15 @@
-{}
+{
+    "active": true,
+    "dumped_at": "2026-11-21 03:04",
+    "source": "GameAssembly.dll",
+    "offsets": {
+        "il_icon_duration": 40,
+        "il_icon_settings": 80,
+        "il_list": 24,
+        "il_reveal_descs": 1344,
+        "il_scr_content": 104,
+        "il_shine_duration": 56,
+        "il_shine_settings": 24,
+        "il_time_cell": 88
+    }
+}
