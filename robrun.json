@@ -1,8 +1,12 @@
 {
     "active": true,
-    "dumped_at": "2026-11-21 03:04",
+    "dumped_at": "2026-11-21 03:19",
     "source": "GameAssembly.dll",
     "offsets": {
+        "fc_aspect": 1248,
+        "fc_scene_comp": 32,
+        "fc_scene_wrap": 1400,
+        "fc_view_camera": 152,
         "il_icon_duration": 40,
         "il_icon_settings": 80,
         "il_list": 24,
