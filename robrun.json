@@ -1,10 +1,15 @@
 {
     "active": true,
-    "dumped_at": "2026-11-21 04:31",
+    "dumped_at": "2026-11-22 23:02",
     "source": "GameAssembly.dll",
     "offsets": {
+        "fc_aim_brain": 72,
         "fc_aspect": 1248,
+        "fc_battle_rot": 64,
         "fc_brain_vcam": 160,
+        "fc_rot_delta": 44,
+        "fc_rot_pitch": 20,
+        "fc_rot_yaw": 16,
         "fc_scene_comp": 32,
         "fc_scene_wrap": 1400,
         "fc_vcam_fov": 184,
