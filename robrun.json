@@ -1,6 +1,6 @@
 {
     "active": true,
-    "dumped_at": "2026-11-22 23:47",
+    "dumped_at": "2026-11-22 23:55",
     "source": "GameAssembly.dll",
     "offsets": {
         "fc_aim_brain": 72,
@@ -31,6 +31,7 @@
         "fc_vcam_state_fl": 592,
         "fc_vcam_state_mix": 200,
         "fc_vcam_state_sd": 264,
+        "fc_vcam_state_tpso": 192,
         "fc_vcam_state_vc": 264,
         "fc_view_brain": 168,
         "fc_view_camera": 152,
